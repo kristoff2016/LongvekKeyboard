@@ -1,0 +1,5 @@
+{
+  "hello": ["world", "there"],
+  "good": ["morning", "night"],
+  "ios": ["developer", "app"]
+}
