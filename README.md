@@ -1,5 +1,7 @@
 # Longvek Keyboard (KBoard AI)
 
+![Keyboard Preview](photo_2025-11-21_14-48-53.jpg)
+
 Longvek Keyboard is a modern, high-performance Khmer and English keyboard for iOS. It features a smart prediction engine, gesture controls, and an efficient, low-memory architecture designed for stability and speed.
 
 ## 🚀 Features
