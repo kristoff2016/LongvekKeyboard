@@ -1,0 +1,564 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		FB128F6C2ECFFE3300F1D232 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FB128F452ECFFE3100F1D232 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FB128F4C2ECFFE3100F1D232;
+			remoteInfo = LongvekKeyboard;
+		};
+		FB128F762ECFFE3300F1D232 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FB128F452ECFFE3100F1D232 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FB128F4C2ECFFE3100F1D232;
+			remoteInfo = LongvekKeyboard;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		FB128F4D2ECFFE3100F1D232 /* LongvekKeyboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LongvekKeyboard.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FB128F6B2ECFFE3300F1D232 /* LongvekKeyboardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LongvekKeyboardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FB128F752ECFFE3300F1D232 /* LongvekKeyboardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LongvekKeyboardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		FB128F7D2ECFFE3300F1D232 /* Exceptions for "LongvekKeyboard" folder in "LongvekKeyboard" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = FB128F4C2ECFFE3100F1D232 /* LongvekKeyboard */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		FB128F4F2ECFFE3100F1D232 /* LongvekKeyboard */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				FB128F7D2ECFFE3300F1D232 /* Exceptions for "LongvekKeyboard" folder in "LongvekKeyboard" target */,
+			);
+			path = LongvekKeyboard;
+			sourceTree = "<group>";
+		};
+		FB128F6E2ECFFE3300F1D232 /* LongvekKeyboardTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = LongvekKeyboardTests;
+			sourceTree = "<group>";
+		};
+		FB128F782ECFFE3300F1D232 /* LongvekKeyboardUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = LongvekKeyboardUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FB128F4A2ECFFE3100F1D232 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FB128F682ECFFE3300F1D232 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FB128F722ECFFE3300F1D232 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FB128F442ECFFE3100F1D232 = {
+			isa = PBXGroup;
+			children = (
+				FB128F4F2ECFFE3100F1D232 /* LongvekKeyboard */,
+				FB128F6E2ECFFE3300F1D232 /* LongvekKeyboardTests */,
+				FB128F782ECFFE3300F1D232 /* LongvekKeyboardUITests */,
+				FB128F4E2ECFFE3100F1D232 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FB128F4E2ECFFE3100F1D232 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FB128F4D2ECFFE3100F1D232 /* LongvekKeyboard.app */,
+				FB128F6B2ECFFE3300F1D232 /* LongvekKeyboardTests.xctest */,
+				FB128F752ECFFE3300F1D232 /* LongvekKeyboardUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FB128F4C2ECFFE3100F1D232 /* LongvekKeyboard */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FB128F7E2ECFFE3300F1D232 /* Build configuration list for PBXNativeTarget "LongvekKeyboard" */;
+			buildPhases = (
+				FB128F492ECFFE3100F1D232 /* Sources */,
+				FB128F4A2ECFFE3100F1D232 /* Frameworks */,
+				FB128F4B2ECFFE3100F1D232 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				FB128F4F2ECFFE3100F1D232 /* LongvekKeyboard */,
+			);
+			name = LongvekKeyboard;
+			packageProductDependencies = (
+			);
+			productName = LongvekKeyboard;
+			productReference = FB128F4D2ECFFE3100F1D232 /* LongvekKeyboard.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FB128F6A2ECFFE3300F1D232 /* LongvekKeyboardTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FB128F832ECFFE3300F1D232 /* Build configuration list for PBXNativeTarget "LongvekKeyboardTests" */;
+			buildPhases = (
+				FB128F672ECFFE3300F1D232 /* Sources */,
+				FB128F682ECFFE3300F1D232 /* Frameworks */,
+				FB128F692ECFFE3300F1D232 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FB128F6D2ECFFE3300F1D232 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				FB128F6E2ECFFE3300F1D232 /* LongvekKeyboardTests */,
+			);
+			name = LongvekKeyboardTests;
+			packageProductDependencies = (
+			);
+			productName = LongvekKeyboardTests;
+			productReference = FB128F6B2ECFFE3300F1D232 /* LongvekKeyboardTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		FB128F742ECFFE3300F1D232 /* LongvekKeyboardUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FB128F862ECFFE3300F1D232 /* Build configuration list for PBXNativeTarget "LongvekKeyboardUITests" */;
+			buildPhases = (
+				FB128F712ECFFE3300F1D232 /* Sources */,
+				FB128F722ECFFE3300F1D232 /* Frameworks */,
+				FB128F732ECFFE3300F1D232 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FB128F772ECFFE3300F1D232 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				FB128F782ECFFE3300F1D232 /* LongvekKeyboardUITests */,
+			);
+			name = LongvekKeyboardUITests;
+			packageProductDependencies = (
+			);
+			productName = LongvekKeyboardUITests;
+			productReference = FB128F752ECFFE3300F1D232 /* LongvekKeyboardUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FB128F452ECFFE3100F1D232 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					FB128F4C2ECFFE3100F1D232 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					FB128F6A2ECFFE3300F1D232 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = FB128F4C2ECFFE3100F1D232;
+					};
+					FB128F742ECFFE3300F1D232 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = FB128F4C2ECFFE3100F1D232;
+					};
+				};
+			};
+			buildConfigurationList = FB128F482ECFFE3100F1D232 /* Build configuration list for PBXProject "LongvekKeyboard" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FB128F442ECFFE3100F1D232;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = FB128F4E2ECFFE3100F1D232 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FB128F4C2ECFFE3100F1D232 /* LongvekKeyboard */,
+				FB128F6A2ECFFE3300F1D232 /* LongvekKeyboardTests */,
+				FB128F742ECFFE3300F1D232 /* LongvekKeyboardUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FB128F4B2ECFFE3100F1D232 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FB128F692ECFFE3300F1D232 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FB128F732ECFFE3300F1D232 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FB128F492ECFFE3100F1D232 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FB128F672ECFFE3300F1D232 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FB128F712ECFFE3300F1D232 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FB128F6D2ECFFE3300F1D232 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FB128F4C2ECFFE3100F1D232 /* LongvekKeyboard */;
+			targetProxy = FB128F6C2ECFFE3300F1D232 /* PBXContainerItemProxy */;
+		};
+		FB128F772ECFFE3300F1D232 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FB128F4C2ECFFE3100F1D232 /* LongvekKeyboard */;
+			targetProxy = FB128F762ECFFE3300F1D232 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		FB128F7F2ECFFE3300F1D232 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XWGMNFQMUR;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = LongvekKeyboard/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = LongvekKeyboard.LongvekKeyboard;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		FB128F802ECFFE3300F1D232 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XWGMNFQMUR;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = LongvekKeyboard/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = LongvekKeyboard.LongvekKeyboard;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		FB128F812ECFFE3300F1D232 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		FB128F822ECFFE3300F1D232 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FB128F842ECFFE3300F1D232 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XWGMNFQMUR;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = LongvekKeyboard.LongvekKeyboardTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LongvekKeyboard.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/LongvekKeyboard";
+			};
+			name = Debug;
+		};
+		FB128F852ECFFE3300F1D232 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XWGMNFQMUR;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = LongvekKeyboard.LongvekKeyboardTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LongvekKeyboard.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/LongvekKeyboard";
+			};
+			name = Release;
+		};
+		FB128F872ECFFE3300F1D232 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XWGMNFQMUR;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = LongvekKeyboard.LongvekKeyboardUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = LongvekKeyboard;
+			};
+			name = Debug;
+		};
+		FB128F882ECFFE3300F1D232 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XWGMNFQMUR;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = LongvekKeyboard.LongvekKeyboardUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = LongvekKeyboard;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FB128F482ECFFE3100F1D232 /* Build configuration list for PBXProject "LongvekKeyboard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FB128F812ECFFE3300F1D232 /* Debug */,
+				FB128F822ECFFE3300F1D232 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FB128F7E2ECFFE3300F1D232 /* Build configuration list for PBXNativeTarget "LongvekKeyboard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FB128F7F2ECFFE3300F1D232 /* Debug */,
+				FB128F802ECFFE3300F1D232 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FB128F832ECFFE3300F1D232 /* Build configuration list for PBXNativeTarget "LongvekKeyboardTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FB128F842ECFFE3300F1D232 /* Debug */,
+				FB128F852ECFFE3300F1D232 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FB128F862ECFFE3300F1D232 /* Build configuration list for PBXNativeTarget "LongvekKeyboardUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FB128F872ECFFE3300F1D232 /* Debug */,
+				FB128F882ECFFE3300F1D232 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FB128F452ECFFE3100F1D232 /* Project object */;
+}
